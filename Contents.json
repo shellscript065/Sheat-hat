@@ -77,12 +77,6 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "",
-			"Format" : "",
-			"Priority" : 1,
-			"IsLocalizable" : True
-		},
-		{
 			"Package" : "sheat-hat",
 			"Format" : "Sheat-hats",
 			"Priority" : 1,
