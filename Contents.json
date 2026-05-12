@@ -985,6 +985,32 @@
 			"IsUnlockable" : False,
 			"FPS" : 13,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2985636a381543d5288fa333b8d0bf69",
+				"Address" : "VB1aToBb_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "2985636a381543d5288fa333b8d0bf69",
+				"Address" : "VB1aToBb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Triggered",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -1426,6 +1452,66 @@
 			"BackmostBack" : False,
 			"Fixed" : False,
 			"Name" : "Ron_Smartypants",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e39e5b8e53f508b939cdc55f45e0cae7",
+				"Address" : "v3ly9KXB_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "トロールフェイス",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0f899267e843ae1ab51b9443bc4e476d",
+				"Address" : "Yhu5_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "0f899267e843ae1ab51b9443bc4e476d",
+				"Address" : "Yhu5_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "爆発",
+			"Author" : "シート",
+			"Package" : "SheatSkins",
+			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b65b273583e1a0cbdb5a310ca8c70403",
+				"Address" : "W2PA8Cb9b_Main.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"Name" : "ファミリーガイ",
 			"Author" : "シート",
 			"Package" : "SheatSkins",
 			"IsUnlockable" : False,
